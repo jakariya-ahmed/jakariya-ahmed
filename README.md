@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working on **React projects, Laravel backend, and WordPress customization**
+- 🔭 I’m currently working on **React projects, Laravel backend & API Integration**
 - 🌱 I’m learning **TypeScript and advanced full-stack architecture**
 - 💼 Open to **freelance web projects** and **remote frontend/backend roles**
 - 💬 Ask me about **JavaScript, React, Tailwind CSS, PHP, Laravel & MySQL**
