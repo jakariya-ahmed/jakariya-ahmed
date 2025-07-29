@@ -13,7 +13,7 @@
 - 🌱 I’m learning **TypeScript and advanced full-stack architecture**
 - 💼 Open to **freelance web projects** and **remote frontend/backend roles**
 - 💬 Ask me about **React, Tailwind CSS, PHP, Laravel, MySQL, and WordPress**
-- 📫 Email me at: **jakariya.dev@gmail.com**
+- 📫 Email me at: **devjakariya9356@gmail.com**
 - 🧠 Currently mastering: **JavaScript Patterns + Laravel API integration**
 
 ---
