@@ -12,7 +12,7 @@
 - 🔭 I’m currently working on **React projects, Laravel backend, and WordPress customization**
 - 🌱 I’m learning **TypeScript and advanced full-stack architecture**
 - 💼 Open to **freelance web projects** and **remote frontend/backend roles**
-- 💬 Ask me about **React, Tailwind CSS, PHP, Laravel, MySQL, and WordPress**
+- 💬 Ask me about **JavaScript, React, Tailwind CSS, PHP, Laravel & MySQL**
 - 📫 Email me at: **devjakariya9356@gmail.com**
 - 🧠 Currently mastering: **JavaScript Patterns + Laravel API integration**
 
@@ -46,7 +46,7 @@
 
 | Project Name | Tech Stack | Live Demo |
 |--------------|------------|-----------|
-| 🌐 Portfolio Website | HTML, CSS, JS, Tailwind | [Live](https://your-portfolio-url.com) |
+| 🌐 Portfolio Website | Tailwind | React.js | [Live](https://your-portfolio-url.com) |
 | 🛒 eCommerce UI | React, TailwindCSS | [Live](https://your-ecommerce-url.com) |
 | 📝 Blog CMS | WordPress, PHP | [Live](https://your-blog-url.com) |
 | 🧾 Invoice System | Laravel, MySQL | [Live](https://your-laravel-app.com) |
@@ -64,15 +64,15 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=jakariya-ahmed&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jakariya-ahmed&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=jakariya-ahmed&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=jakariya-ahmed&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=jakariya-ahmed&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=jakariya-ahmed&icon=0&color=0)](https://visitcount.itsvg.in)
 
