@@ -1,14 +1,11 @@
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/jakariya.ahmed.390083) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jakariyahmed93) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jakariya-ahmed9356) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:devjakariya9356@gmail.com) 
 <h1 align="center">Hi 👋, I'm Jakariya</h1>
 <h3 align="center">A passionate Frontend Developer from Bangladesh</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jakariya-dev&label=Profile%20views&color=0e75b6&style=flat" alt="jakariya-dev" />
 </p>
-
 ---
+
 
 ### 🚀 About Me
 
@@ -21,6 +18,11 @@
 - ⚡ Fun fact: I enjoy walking in nature and studying smart UI/UX designs
 
 ---
+
+
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/jakariya.ahmed.390083) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jakariyahmed93) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jakariya-ahmed9356) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:devjakariya9356@gmail.com) 
+
 
 ### 🛠️ Technologies & Tools
 
