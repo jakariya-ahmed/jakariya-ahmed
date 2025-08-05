@@ -46,9 +46,9 @@
 
 | Project Name | Tech Stack | Live Demo |
 |--------------|------------|-----------|
-| 🌐 Portfolio Website | Tailwind | React.js | [Live](https://your-portfolio-url.com) |
-| 🛒 eCommerce UI | React, TailwindCSS | [Live](https://your-ecommerce-url.com) |
-| 📝 Blog CMS | WordPress, PHP | [Live](https://your-blog-url.com) |
+| 🌐 Portfolio Website | Tailwind | React.js | [Live](https://jakariya-ahmed.vercel.app/) |
+| 🛒 eCommerce UI | React, TailwindCSS | [Live](https://ecommerce-cyan-three-13.vercel.app/) |
+| 📝 Quiz App | Javascript, React, Tailwindcss | [Live](https://your-blog-url.com) |
 | 🧾 Invoice System | Laravel, MySQL | [Live](https://your-laravel-app.com) |
 
 > 💡 Replace these links with your real projects + live demo URLs.
