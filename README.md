@@ -44,9 +44,10 @@
 
 ### 🌟 Featured Projects
 
-| Project Name | Tech Stack | Live Demo |
+| Project Name | Tech Stack | Live Demo | 
 |--------------|------------|-----------|
 | 🌐 Portfolio Website | Tailwind | React.js | [Live](https://jakariya-ahmed.vercel.app/) |
+| 🛒 Shop Smart | React, TailwindCSS | [Live](https://vercel.com/jakariya-ahmeds-projects/tiny-projects) |
 | 🛒 LightShop Ecommerce | React, TailwindCSS | [Live](https://ecommerce-cyan-three-13.vercel.app/) |
 | 📝 Quiz App | Javascript, React, Tailwindcss | [Live](https://quiz-app-theta-seven-47.vercel.app/) |
 | 🧾 Invoice System | Laravel, MySQL | [Live](https://your-laravel-app.com) |
